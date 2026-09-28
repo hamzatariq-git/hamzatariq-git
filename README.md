@@ -17,9 +17,9 @@
 
 
 # 🌐 Connect with Me:
-[![YouTube](https://img.shields.io/badge/YouTube-%23F24E1E.svg?logo=YouTube&logoColor=white)](https://youtube.com/@studio_xd) 
-[![LumenCodes](https://img.shields.io/badge/LumenCodes-bfd731?style=for-the-badge&logoColor=black)](https://lumencodes.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/link-hamzatariq/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@studio_xd)
+[![LumenCodes](https://img.shields.io/badge/LUMENCODES-bfd731?style=for-the-badge&logoColor=black)](https://lumencodes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/link-hamzatariq/)
 
 
 # 💻 Tech Stack:
