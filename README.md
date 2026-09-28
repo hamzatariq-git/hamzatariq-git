@@ -27,4 +27,5 @@
 
 
 # 📊 Languages Used:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzatariq-git&show_icons=true&locale=en&layout=compact" alt="hamzatariq-git" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatariq-git&layout=compact&title_color=bfd731&text_color=ffffff&bg_color=0d1117&border_color=bfd731)
